@@ -39,6 +39,5 @@ Files saved to .
 
 **Endorsement for Specific Scenarios:** The use of this code is explicitly endorsed by the developers in particular contexts, such as educational environments and authorized penetration testing engagements. These engagements should have a clearly defined objective: the identification and mitigation of vulnerabilities in systems, with the goal of enhancing their resistance to exploitation and attacks by malicious actors. These objectives should align with the defined threat models relevant to the specific scenario.
 
-By using this code, you acknowledge and accept these terms and conditions. Any use of this code that does not comply with these terms is strictly prohibited.
 
 
